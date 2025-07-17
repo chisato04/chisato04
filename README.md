@@ -24,7 +24,7 @@
 
 ---
 
-### 🚀 Featured Project: Chisato Hub
+### Featured Project: Chisato Hub
 
 <div align="center">
   <a href="https://github.com/chisato04/chisato-hub">
@@ -33,7 +33,6 @@
 </div>
 
 <p align="center">
-  <!-- THE FIX: "legacy PHP application" is now a link -->
   A complete, full-stack migration and overhaul of a <a href="https://github.com/chisato04/mrpack-depot">legacy PHP application</a> into a modern monorepo. Built with React, TypeScript, and a Node.js/Express backend, this hub serves as a central point for a Minecraft community.
   <br/><br/>
   <strong>Key Features:</strong>
@@ -47,5 +46,5 @@
 </ul>
 
 <p align="center">
-  <a href="https://github.com/chisato04/chisato-hub"><strong>Explore the New Project →</strong></a>
+  <a href="https://github.com/chisato04/chisato-hub"><strong>Explore the chisato-hub</strong></a>
 </p>
