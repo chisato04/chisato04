@@ -32,11 +32,7 @@
   </a>
 </div>
 
-<p align="center">
-  A complete, full-stack migration and overhaul of a <a href="https://github.com/chisato04/mrpack-depot">legacy PHP application</a> into a modern monorepo. Built with React, TypeScript, and a Node.js/Express backend, this hub serves as a central point for a Minecraft community.
-  <br/><br/>
-  <strong>Key Features:</strong>
-</p>
+
 
 <ul align="center" style="display: inline-block; text-align: left;">
   <li>Live server status dashboard with player lists.</li>
