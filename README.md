@@ -17,7 +17,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chisato04&show_icons=true&include_all_commits=true&theme=catppuccin_mocha&hide_border=true&border_radius=10" alt="chisato04's GitHub stats" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chisato04&layout=compact&theme=catppuccin_mocha&hide_border=true&border_radius=10" alt="chisato04's top languages" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"></a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chisato04&layout=compact&theme=catppuccin_mocha&hide_border=true&border_radius=10" alt="chisato04's top languages" /></a>
 </p>
 
 <br/>
